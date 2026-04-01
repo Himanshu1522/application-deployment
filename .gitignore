@@ -46,6 +46,7 @@ Thumbs.db
 # Logs
 *.log
 
+
 # Node-related (if you have a frontend)
 node_modules/
 package-lock.json
